@@ -1,0 +1,13 @@
+.card-header {
+    background-color: #ff0000
+
+}
+
+th,td,h5{
+    color: rgb(0, 2, 93);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+}
